@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello World    !!!
+=======
+Hello !!!
+>>>>>>> 6def277 (Added 3.txt)
